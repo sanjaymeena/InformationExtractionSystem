@@ -16,7 +16,6 @@ The tagger module performs following tasks: text preprocessing, syntactic parsin
 Relation Extraction Module will extract the triplet: predicate, subject, object which will be present in sentences. For complex sentences, more than one triplet can be present. 
 
 ## About Code
-
 Please run com.asus.ctc.ie.InformationExtraction for demo run. The IE system is memory intensive. please provide -Xmx1024m as VM argument. 
 
 ### Configuration 
@@ -26,19 +25,6 @@ The main configuration files are:
 2. ie_properties.properties : All the necessary filepaths for various resources are mentioned here. 
 3. stanford_parser_configuration.xml : Stanford Parser configuration to run it as as socket server. 
 4. supersense_tagger_configuration.xml : Super Sense tagger configuration to run it as a socket server. 
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
