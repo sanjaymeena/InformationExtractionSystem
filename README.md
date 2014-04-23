@@ -28,6 +28,3 @@ The main configuration files are:
 4. supersense_tagger_configuration.xml : Super Sense tagger configuration to run it as a socket server. 
 
 
-
-
-
