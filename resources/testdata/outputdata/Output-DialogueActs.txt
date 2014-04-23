@@ -1,0 +1,74 @@
+#Test Output for  Dialogue acts  Queries
+#Total Sentences: 23
+#Total Time taken for Dialogue acts queries :5.0 seconds 
+#Time take per query: 0.21739130434782608 seconds
+----------------------------------------------------------------------
+User Input: hello 
+Dialogue acts: [greet]
+------------------------------------------------------------------
+User Input:  how is the weather tonight? 
+Dialogue acts: [wh-question]
+------------------------------------------------------------------
+User Input:  how about kaohsiung tomorrow?
+Dialogue acts: [wh-question]
+------------------------------------------------------------------
+User Input:  hmmm...how about morning?
+Dialogue acts: [wh-question]
+------------------------------------------------------------------
+User Input: no, i meant taipei.
+Dialogue acts: [reject, clarification]
+------------------------------------------------------------------
+User Input:  any typhoons coming soon ?
+Dialogue acts: [statement]
+------------------------------------------------------------------
+User Input: ok.. what is the stock price for asus?
+Dialogue acts: [accept, wh-question]
+------------------------------------------------------------------
+User Input:  show me its financial statistics
+Dialogue acts: [command]
+------------------------------------------------------------------
+User Input:  remind me when it crosses 300 ntd. 
+Dialogue acts: [command]
+------------------------------------------------------------------
+User Input:  thank you
+Dialogue acts: [thank]
+------------------------------------------------------------------
+User Input:  where were you born?
+Dialogue acts: [wh-question]
+------------------------------------------------------------------
+User Input:  how can you help me?
+Dialogue acts: [wh-question]
+------------------------------------------------------------------
+User Input:  hmmm. tell me a joke then. 
+Dialogue acts: [command]
+------------------------------------------------------------------
+User Input: can you schedule my meeting with professor tomorrow afternoon in asus?
+Dialogue acts: [statement]
+------------------------------------------------------------------
+User Input:  tomorrow afternoon at 3 pm. 
+Dialogue acts: [statement]
+------------------------------------------------------------------
+User Input:  how far is moon from earth?
+Dialogue acts: [wh-question]
+------------------------------------------------------------------
+User Input:  no
+Dialogue acts: [reject]
+------------------------------------------------------------------
+User Input:  give me more information
+Dialogue acts: [command]
+------------------------------------------------------------------
+User Input:  hmm.. are there any good movies playing tonight?
+Dialogue acts: [accept, yes-no-question]
+------------------------------------------------------------------
+User Input:  can you book me 2 tickets?
+Dialogue acts: [statement]
+------------------------------------------------------------------
+User Input:  3pm. 
+Dialogue acts: [statement]
+------------------------------------------------------------------
+User Input:  sanjay, tom.
+Dialogue acts: [statement]
+------------------------------------------------------------------
+User Input: i need to go. talk to you later.
+Dialogue acts: [farewell, farewell]
+------------------------------------------------------------------

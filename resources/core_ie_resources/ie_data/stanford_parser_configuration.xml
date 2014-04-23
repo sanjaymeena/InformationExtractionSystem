@@ -1,0 +1,8 @@
+<configuration >
+  <preference name="port" value="5556" />
+  <preference name="grammar" value="resources/core_ie_resources/ie_data/stanfordparser/englishPCFG.ser.gz" />
+   <preference name="postagger" value="resources/core_ie_resources/ie_data/models/english-left3words-distsim.tagger" />
+     <preference name="maxLength" value="80" />
+     <preference name="sentences" value="\n" />
+</configuration>
+

@@ -1,0 +1,300 @@
+#Test Output for 1000 Virtual Assistant Queries
+#Total Sentences: 19
+#Time taken for 1000 queries :19.0 seconds 
+#Time take per query: 1.0 seconds
+----------------------------------------------------------------------
+Input: call 2125551212
+domain: virtual_assistant
+Application: phone
+Topic: make_a_call
+AIML Response: Make a call to 2125551212
+Sentence Data: 
+Entities:
+
+Syntactic Parse:# (ROOT (S (VP (VB call) (NP (CD 2125551212)))))
+Tags:# [Call, 2125551212]
+------------------------------------------------------------------
+Input: call 911
+domain: virtual_assistant
+Application: emergency_call
+Topic: emergency_call
+AIML Response: Make a call to 911
+Sentence Data: 
+Entities:
+
+Syntactic Parse:# (ROOT (S (VP (VB call) (NP (CD 911)))))
+Tags:# [Call, 911]
+------------------------------------------------------------------
+Input: call alan smith
+domain: virtual_assistant
+Application: phone
+Topic: make_a_call
+AIML Response: Make a call to alan smith
+Sentence Data: 
+Entities:
+person : [person-smith]
+
+Syntactic Parse:# (ROOT (S (VP (VB call) (NP (JJ alan) (NN smith)))))
+Tags:# [Call, alan, smith]
+
+Relation Extraction: 
+Subject:   ##Entities in Subject: []
+Predicate: call  ##type: communication ##Sense list: [Call/VB/B-verb.communication]
+Object: alan smith  ##Entities in Object: [person-smith]
+------------------------------------------------------------------
+Input: call amanda
+domain: virtual_assistant
+Application: phone
+Topic: make_a_call
+AIML Response: Make a call to amanda
+Sentence Data: 
+Entities:
+person : [person-amanda]
+
+Syntactic Parse:# (ROOT (S (VP (VB call) (NP (NN amanda)))))
+Tags:# [Call, amanda]
+
+Relation Extraction: 
+Subject:   ##Entities in Subject: []
+Predicate: call  ##type: communication ##Sense list: [Call/VB/B-verb.communication]
+Object: amanda  ##Entities in Object: [person-amanda]
+------------------------------------------------------------------
+Input: call chris
+domain: virtual_assistant
+Application: phone
+Topic: make_a_call
+AIML Response: Make a call to chris
+Sentence Data: 
+Entities:
+person : [person-chris]
+
+Syntactic Parse:# (ROOT (S (VP (VB call) (NP (NNS chris)))))
+Tags:# [Call, chris]
+
+Relation Extraction: 
+Subject:   ##Entities in Subject: []
+Predicate: call  ##type: communication ##Sense list: [Call/VB/B-verb.communication]
+Object: chris  ##Entities in Object: [person-chris]
+------------------------------------------------------------------
+Input: call domino's pizza
+domain: virtual_assistant
+Application: phone
+Topic: make_a_call
+AIML Response: Make a call to domino s pizza
+Sentence Data: 
+Entities:
+food : [food-domino 's pizza]
+
+Syntactic Parse:# (ROOT (S (VP (VB call) (NP (NP (NN domino) (POS 's)) (NN pizza)))))
+Tags:# [Call, domino, 's, pizza]
+
+Relation Extraction: 
+Subject:   ##Entities in Subject: []
+Predicate: call  ##type: communication ##Sense list: [Call/VB/B-verb.communication]
+Object: domino 's pizza  ##Entities in Object: [food-domino 's pizza]
+------------------------------------------------------------------
+Input: call grandma
+domain: virtual_assistant
+Application: phone
+Topic: make_a_call
+AIML Response: Make a call to grandma
+Sentence Data: 
+Entities:
+person : [person-grandma]
+
+Syntactic Parse:# (ROOT (S (VP (VB call) (NP (NN grandma)))))
+Tags:# [Call, grandma]
+
+Relation Extraction: 
+Subject:   ##Entities in Subject: []
+Predicate: call  ##type: communication ##Sense list: [Call/VB/B-verb.communication]
+Object: grandma  ##Entities in Object: [person-grandma]
+------------------------------------------------------------------
+Input: call home
+domain: virtual_assistant
+Application: phone
+Topic: make_a_call
+AIML Response: Make a call to home
+Sentence Data: 
+Entities:
+artifact : [artifact-home]
+
+Syntactic Parse:# (ROOT (S (VP (VB call) (NP (NN home)))))
+Tags:# [Call, home]
+------------------------------------------------------------------
+Input: call mark
+domain: virtual_assistant
+Application: phone
+Topic: make_a_call
+AIML Response: Make a call to mark
+Sentence Data: 
+Entities:
+communication : [communication-mark]
+
+Syntactic Parse:# (ROOT (S (VP (VB call) (NP (NN mark)))))
+Tags:# [Call, mark]
+------------------------------------------------------------------
+Input: call matt
+domain: virtual_assistant
+Application: phone
+Topic: make_a_call
+AIML Response: Make a call to matt
+Sentence Data: 
+Entities:
+attribute : [attribute-matt]
+
+Syntactic Parse:# (ROOT (S (VP (VB call) (NP (NN matt)))))
+Tags:# [Call, matt]
+
+Relation Extraction: 
+Subject:   ##Entities in Subject: []
+Predicate: call  ##type: communication ##Sense list: [Call/VB/B-verb.communication]
+Object: matt  ##Entities in Object: [attribute-matt]
+------------------------------------------------------------------
+Input: call me a cab
+domain: virtual_assistant
+Application: book_cab
+Topic: call_taxi
+AIML Response: call taxi
+Sentence Data: 
+Entities:
+artifact : [artifact-cab]
+
+Syntactic Parse:# (ROOT (S (VP (VB call) (NP (PRP me)) (NP (DT a) (NN cab)))))
+Tags:# [Call, cab]
+
+Relation Extraction: 
+Subject:   ##Entities in Subject: []
+Predicate: call  ##type: communication ##Sense list: [Call/VB/B-verb.communication]
+Object: me a cab  ##Entities in Object: [artifact-cab]
+------------------------------------------------------------------
+Input: call michelle
+domain: virtual_assistant
+Application: phone
+Topic: make_a_call
+AIML Response: Make a call to michelle
+Sentence Data: 
+Entities:
+person : [person-michelle]
+
+Syntactic Parse:# (ROOT (S (VP (VB call) (NP (NN michelle)))))
+Tags:# [Call, michelle]
+
+Relation Extraction: 
+Subject:   ##Entities in Subject: []
+Predicate: call  ##type: communication ##Sense list: [Call/VB/B-verb.communication]
+Object: michelle  ##Entities in Object: [person-michelle]
+------------------------------------------------------------------
+Input: call mom
+domain: virtual_assistant
+Application: phone
+Topic: make_a_call
+AIML Response: Make a call to mom
+Sentence Data: 
+Entities:
+person : [person-mom]
+
+Syntactic Parse:# (ROOT (S (VP (VB call) (NP (NN mom)))))
+Tags:# [Call, mom]
+
+Relation Extraction: 
+Subject:   ##Entities in Subject: []
+Predicate: call  ##type: communication ##Sense list: [Call/VB/B-verb.communication]
+Object: mom  ##Entities in Object: [person-mom]
+------------------------------------------------------------------
+Input: call mummy
+domain: virtual_assistant
+Application: phone
+Topic: make_a_call
+AIML Response: Make a call to mummy
+Sentence Data: 
+Entities:
+person : [person-mummy]
+
+Syntactic Parse:# (ROOT (S (VP (VB call) (NP (NN mummy)))))
+Tags:# [Call, mummy]
+
+Relation Extraction: 
+Subject:   ##Entities in Subject: []
+Predicate: call  ##type: communication ##Sense list: [Call/VB/B-verb.communication]
+Object: mummy  ##Entities in Object: [person-mummy]
+------------------------------------------------------------------
+Input: call my husband
+domain: virtual_assistant
+Application: phone
+Topic: make_a_call
+AIML Response: Make a call to husband
+Sentence Data: 
+Entities:
+person : [person-husband]
+
+Syntactic Parse:# (ROOT (S (VP (VB call) (NP (NP (PRP$ my)) (NN husband)))))
+Tags:# [Call, my, husband]
+
+Relation Extraction: 
+Subject:   ##Entities in Subject: []
+Predicate: call  ##type: communication ##Sense list: [Call/VB/B-verb.communication]
+Object: my husband  ##Entities in Object: [person-husband]
+------------------------------------------------------------------
+Input: call wife
+domain: virtual_assistant
+Application: phone
+Topic: make_a_call
+AIML Response: Make a call to wife
+Sentence Data: 
+Entities:
+person : [person-wife]
+
+Syntactic Parse:# (ROOT (S (VP (VB call) (NP (NN wife)))))
+Tags:# [Call, wife]
+
+Relation Extraction: 
+Subject:   ##Entities in Subject: []
+Predicate: call  ##type: communication ##Sense list: [Call/VB/B-verb.communication]
+Object: wife  ##Entities in Object: [person-wife]
+------------------------------------------------------------------
+Input: dial 2125551212
+domain: virtual_assistant
+Application: phone
+Topic: dial_a_number
+AIML Response: Dial a number: 2125551212
+Sentence Data: 
+Entities:
+
+Syntactic Parse:# (ROOT (S (VP (VB dial) (NP (CD 2125551212)))))
+Tags:# [Dial, 2125551212]
+------------------------------------------------------------------
+Input: make a call
+domain: virtual_assistant
+Application: phone
+Topic: make_a_call_no_args
+AIML Response: Make a call to
+Sentence Data: 
+Entities:
+communication : [communication-call]
+
+Syntactic Parse:# (ROOT (S (VP (VB make) (NP (DT a) (NN call)))))
+Tags:# [Make, call]
+
+Relation Extraction: 
+Subject:   ##Entities in Subject: []
+Predicate: make  ##type: creation ##Sense list: [Make/VB/B-verb.creation]
+Object: a call  ##Entities in Object: [communication-call]
+------------------------------------------------------------------
+Input: make a phone call
+domain: virtual_assistant
+Application: phone
+Topic: dial_a_number
+AIML Response: Dial a number
+Sentence Data: 
+Entities:
+communication : [communication-phone call]
+
+Syntactic Parse:# (ROOT (S (VP (VB make) (NP (DT a) (NN phone) (NN call)))))
+Tags:# [Make, phone, call]
+
+Relation Extraction: 
+Subject:   ##Entities in Subject: []
+Predicate: make  ##type: creation ##Sense list: [Make/VB/B-verb.creation]
+Object: a phone call  ##Entities in Object: [communication-phone call]
+------------------------------------------------------------------

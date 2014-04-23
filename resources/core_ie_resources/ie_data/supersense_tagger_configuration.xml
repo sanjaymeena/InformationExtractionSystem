@@ -1,0 +1,7 @@
+<configuration >
+  <preference name="port" value="5557" />
+  <preference name="model" value="resources/core_ie_resources/ie_data/supersense/superSenseModelAllSemcor.ser.gz" />
+  <preference name="properties" value="resources/core_ie_resources/ie_data/ie_properties.properties" />
+    <preference name="debug" value="false" />
+</configuration>
+

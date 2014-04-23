@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="var" path="JRE_LIB" sourcepath="JRE_SRC"/>
+	<classpathentry kind="lib" path="lib/libraries/coreference-resolution/arkref-6-11-2013.jar"/>
+	<classpathentry kind="lib" path="lib/libraries/json/gson-2.2.3.jar"/>
+	<classpathentry kind="lib" path="lib/libraries/json/json_simple-1.1.jar"/>
+	<classpathentry kind="lib" path="lib/libraries/logging/logback-classic-0.9.29.jar"/>
+	<classpathentry kind="lib" path="lib/libraries/logging/logback-core-0.9.29.jar"/>
+	<classpathentry kind="lib" path="lib/libraries/logging/slf4j-api-1.6.2.jar"/>
+	<classpathentry kind="lib" path="lib/libraries/misc/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="lib/libraries/misc/Javatools.jar"/>
+	<classpathentry kind="lib" path="lib/libraries/misc/junit-3.8.2.jar"/>
+	<classpathentry kind="lib" path="lib/libraries/parsing/stanford-parser-2.0.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="lib/libraries/parsing/stanford-parser-2013-4.jar"/>
+	<classpathentry kind="lib" path="lib/libraries/supersensetagging/supersenseTagger-2012-12-6.jar"/>
+	<classpathentry kind="lib" path="lib/libraries/testphase/stanfordpos/stanford-postagger-3.2.0.jar"/>
+	<classpathentry kind="lib" path="lib/libraries/wordnet/commons-logging.jar"/>
+	<classpathentry kind="lib" path="lib/libraries/wordnet/jwnl.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

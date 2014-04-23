@@ -1,0 +1,162 @@
+Once upon a time there were three little pigs and the time came for them to leave home and seek their fortunes.Before they left, their mother told them "Whatever you do, do it the best that you can because that's the way to get along in the world. 
+The first little pig built his house out of straw because it was the easiest thing to do. The second little pig built his house out of sticks. It was a little bit stronger than a straw house. The third little pig built his house out of bricks.
+One night the big bad wolf, who dearly loved to eat fat little piggies, came along and saw the first little pig in his house of straw. He said "Let me in, Let me in, little pig or I'll huff and I'll puff and I'll blow your house in!" "Not by the hair of my chinny chin chin", said the little pig. But of course the wolf did blow the house in and ate the first little pig.
+The wolf then came to the house of sticks. "Let me in ,Let me in little pig or I'll huff and I'll puff and I'll blow your house in" "Not by the hair of my chinny chin chin", said the little pig. But the wolf blew that house in too, and ate the second little pig.
+The wolf then came to the house of bricks. "Let me in , let me in" cried the wolf "Or I'll huff and I'll puff till I blow your house in." "Not by the hair of my chinny chin chin" said the little pig. Well, the wolf huffed and puffed but he could not blow down that brick house.
+But the wolf was a sly old wolf and he climbed up on the roof to look for a way into the brick house. The little pig saw the wolf climb up on the roof and lit a roaring fire in the fireplace, and placed on it a large kettle of water. When the wolf finally found the hole in the chimney, he crawled down and KERSPLASH right into that kettle of water and that was the end of little pig's troubles with the big bad wolf. 
+The next day the little pig invited his mother over . She said "You see it is just as I told you. The way to get along in the world is to do things as well as you can." Fortunately for that little pig, he learned that lesson. And he just lived happily ever after!
+
+------------------------------------------------------------------------
+Once upon a time, there were three little pigs. Three little pigs had to leave home. Three little pigs had to  seek their fortune. Three little pigs's mother told them to do their best because that is the only way to get along in the world.
+The first little pig built his house out of straw. Building the house out of straw was the easiest thing to do. The second little pig built his house out of sticks. The stick house was a little bit stronger than a straw house. The third little pig built his house out of bricks.
+There was a big bad wolf. Big bad wolf loved to eat fat little pigs. Big bad wolf saw the first little pig in his house of straw.Big bad wolf  said "Let me in, Let me in, little pig or I'll huff and I'll puff and I'll blow your house in!". The first little pig said "Not by the hair of my chinny chin chin". The big bad wolf blew the straw house and ate the first little pig.
+
+The big bad wolf then came to the house of bricks. The big bad wolf said "Let me in, Let me in, little pig or I'll huff and I'll puff and I'll blow your house in!".The second little pig said "Not by the hair of my chinny chin chin". the big bad wolf  blew that house and ate the second little pig.
+
+The big bad wolf then came to the house of bricks.  The big bad wolf said "Let me in , let me in" cried the big bad wolf "Or I'll huff and I'll puff till I blow your house in." "Not by the hair of my chinny chin chin" said the second little pig. The big bad wolf huffed and puffed. The big bad wolf  could not blow down the brick house. 
+
+The big bad wolf was a sly old wolf. The big bad wolf climbed up on the roof to look for a way into the brick house.The third little pig saw the big bad wolf. The big bad wolf climb up on the roof. The third little pig lit a roaring fire in the fireplace. The third little pig placed a large kettle of water on the fireplace. The big bad wolf crawled down the hole in the chimney.  Big bad wolf crawled down the hole in the chimney.  Big bad wolf fell right into the kettle of water and died. and that was the end of little pig's troubles with the big bad wolf. 
+The next day the third little pig invited his mother over . She said "You see it is just as I told you. The way to get along in the world is to do things as well as you can." Fortunately for the third little pig, he learned that lesson. The third little pig lived happily ever after!
+
+********************************************************
+Big Issues: 
+Extacting statement: somebody said something
+********************************************************
+
+0# Three little pigs had to leave home .#[Three little pigs, home]#
+[had to leave(little pigs,home), ]#[had to leave(Three little pigs,home)]
+
+1# Three little pigs had to seek their fortune .#[Three little pigs, fortune]#
+[had to seek(little pigs,fortune), ]#[had to seek(Three little pigs,fortune)]
+
+2# That is the only way to get along in the world .#[world]#
+[is only way along in(,world), ]#[is only way along in(world,world)]
+
+3# Three little pigs 's mother told them to do their best because that is the only way to get along in the world .#[Three little pigs, Three little pigs 's mother, world, little mother, best]#
+[told to do(little mother,best), in(best,the only the world)]#[told to do(little mother,best), in(best,world)]
+
+4# The first little pig built his house out of straw .#[first little pig, house, straw]#
+[built(first little pig,house), out of(house,straw)]#[built(first little pig,house), out of(house,straw)]
+
+5# Building the house out of straw was the easiest thing to do .#[house, Building, straw]#
+[(Building,house), of(house,straw)]#[of(house,straw)]
+
+6# The second little pig built his house out of sticks .#[second little pig, house, sticks]#
+[built(second little pig,house), out of(house,sticks)]#[built(second little pig,house), out of(house,sticks)]
+
+7# The stick house was a little bit stronger than a straw house .#[stick house, straw house]#
+[was little stronger than(stick house,straw house), ]#[was little stronger than(stick house,straw house)]
+
+8# The third little pig built his house out of bricks .#[third little pig, house, bricks]#
+[built(third little pig,house), out of(house,bricks)]#[built(third little pig,house), out of(house,bricks)]
+
+9# There was a big bad wolf .#[big bad wolf]#
+[(big bad wolf,), ]#
+
+10# Big bad wolf loved to eat fat little pigs .#[Big bad wolf, fat little pigs]#
+[loved to eat(Big bad wolf,fat little pigs), ]#[loved to eat(Big bad wolf,fat little pigs)]
+
+11# Big bad wolf saw the first little pig in his house of straw .#[Big bad wolf, first little pig, house]#
+[saw(Big bad wolf,first little pig), in(first little pig,house)]#[saw(Big bad wolf,first little pig), in(first little pig,house)]
+
+12# Big bad wolf said Let me in .#[Big bad wolf]#
+[(Big bad wolf,), ]#
+
+13# The first little pig said Not by the hair of my chinny chin chin .#[first little pig, chinny chin chin]#
+[said by(first little pig,chinny chin chin), ]#[said by(first little pig,chinny chin chin)]
+
+14# The big bad wolf blew the straw house .#[big bad wolf, straw house]#
+[blew(big bad wolf,the straw house), ]#[blew(big bad wolf,straw house)]
+
+15# The big bad wolf ate the first little pig .#[big bad wolf, the first little pig]#
+[ate(big bad wolf,the first little pig), ]#[ate(big bad wolf,the first little pig)]
+
+16# The big bad wolf then came to the house of bricks .#[big bad wolf, bricks]#
+[came to(big bad wolf,bricks), ]#[came to(big bad wolf,bricks)]
+
+17# Let me in , Let me in , little pig or I 'll huff .#[little pig, little I, me]#
+[Let(little I,me), in(me,little pig)]#[Let(little I,me), in(me,little pig)]
+
+18# Let me in , Let me in , little pig or I 'll puff .#[little pig, little I, me, little puff]#
+[Let(little I,me), in(me,little puff)]#[Let(little I,me), in(me,little puff)]
+
+19# Let me in , Let me in , little pig or I 'll blow your house in ! .#[little pig, house, little I, me]#
+[Let(little I,me), in(me,little pig)]#[Let(little I,me), in(me,little pig)]
+
+20# The second little pig said Not by the hair of my chinny chin chin .#[second little pig, chinny chin chin]#
+[said by(second little pig,chinny chin chin), ]#[said by(second little pig,chinny chin chin)]
+
+21# The big bad wolf blew that house .#[big bad wolf, that house]#
+[blew(big bad wolf,that house), ]#[blew(big bad wolf,that house)]
+
+22# The big bad wolf ate the second little pig .#[big bad wolf, the second little pig]#
+[ate(big bad wolf,the second little pig), ]#[ate(big bad wolf,the second little pig)]
+
+23# The big bad wolf then came to the house of bricks .#[big bad wolf, bricks]#
+[came to(big bad wolf,bricks), ]#[came to(big bad wolf,bricks)]
+
+24# Let me in cried the wolf Or I 'll huff .#[wolf, cried I]#
+[Let(cried I,cried wolf), ]#[Let(cried I,wolf)]
+
+25# Let me in cried the wolf I 'll puff till I blow your house in .#[wolf, cried I]#
+[Let(cried I,), in(,cried the wolf)]#[Let(cried I,wolf), in(wolf,wolf)]
+
+26# Not by the hair of my chinny chin chin said the second little pig .#[second little pig, Not chinny chin, Not hair]#
+[(Not chinny chin,), by(,Not hair)]#[by(second little pig,Not hair)]
+
+27# The big bad wolf huffed .#[big bad wolf]#
+[(big bad wolf,), ]#
+
+28# The big bad wolf could not blow down the brick house .#[big bad wolf, brick house]#
+[could not blow down(big bad wolf,the brick house), ]#[could not blow down(big bad wolf,brick house)]
+
+29# The big bad wolf was a sly old wolf .#[big bad wolf]#
+[(big bad wolf,), ]#
+
+30# The big bad wolf climbed up on the roof to look for a way into the brick house .#[big bad wolf, brick house]#
+[climbed up on(big bad wolf,brick house), ]#[climbed up on(big bad wolf,brick house)]
+
+31# The third little pig saw the big bad wolf .#[third little pig, the big bad wolf]#
+[saw(third little pig,the big bad wolf), ]#[saw(third little pig,the big bad wolf)]
+
+32# The big bad wolf climb up on the roof .#[big bad wolf, roof]#
+[climb up on(big bad wolf,roof), ]#[climb up on(big bad wolf,roof)]
+
+33# The third little pig lit a roaring fire in the fireplace .#[third little pig, a roaring fire, the fireplace]#
+[lit(third little pig,a roaring fire), in(a roaring fire,the fireplace)]#[lit(third little pig,a roaring fire), in(a roaring fire,the fireplace)]
+
+34# The third little pig placed a large kettle of water on the fireplace .#[third little pig, a large kettle, water]#
+[placed(third little pig,a large kettle), of(a large kettle,water)]#[placed(third little pig,a large kettle), of(a large kettle,water)]
+
+35# The big bad wolf crawled down the hole in the chimney .#[big bad wolf, chimney]#
+[crawled down(big bad wolf,chimney), ]#[crawled down(big bad wolf,chimney)]
+
+36# Big bad wolf crawled down the hole in the chimney .#[Big bad wolf, hole, chimney]#
+[crawled down(Big bad wolf,chimney), ]#[crawled down(Big bad wolf,chimney)]
+
+37# Big bad wolf fell right into the kettle of water .#[Big bad wolf, kettle, water]#
+[fell into(Big bad wolf,water), ]#[fell into(Big bad wolf,water)]
+
+38# Big bad wolf died .#[Big bad wolf]#
+[(Big bad wolf,), ]#
+
+39# That was the end of little pig 's troubles with the big bad wolf .#[end, little big bad wolf]#
+[was end of(,little big bad wolf), ]#[was end of(end,little big bad wolf)]
+
+40# The third little pig invited his mother over .#[third little pig, mother]#
+[invited(third little pig,mother), ]#[invited(third little pig,mother)]
+
+41# She said You see it is just as I told you .#[You, you]#
+[said(You,you), ]#[said(You,You)]
+
+42# I told you .#[, you]#
+[told(,you), ]#[told(,)]
+
+43# The way to get along in the world is to do things as well as you can .#[world, way, things]#
+[to is(way,things), in(,the world)]#[to is(way,things), in(world,world)]
+
+44# He learned that lesson for the third little pig .#[third little pig, that lesson]#
+[learned(,that lesson), for(that lesson,the third little pig)]#[learned(third little pig,that lesson), for(that lesson,third little pig)]
+
+45# The third little pig lived happily ever after !#[third little pig]#
+[(third little pig,), ]#

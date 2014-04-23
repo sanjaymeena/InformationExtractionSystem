@@ -1,0 +1,111 @@
+﻿<?xml version="1.0"?>
+
+<project name="Information Extraction System" default="build" basedir=".">
+  <description>Information Extraction</description>
+
+  <!-- Prevent Ant from warning about included runtime not being set -->
+  <property name="build.sysclasspath" value="ignore" />
+
+  <property name="src.dir"        value="src"/>
+  <property name="classes.dir"    value="classes"/>
+  <property name="javadoc.dir"    value="doc/javadoc"/>
+  <property name="jar.location"   value="InformationExtractionSystem.jar" />
+
+  <!-- libraries specific to this plug-in -->
+  <fileset id="libs" dir="lib">
+  	 <include name="**/**.jar"/>
+  	    <include name="**/**.zip"/>
+  </fileset>
+
+
+
+          
+  <path id="compile.classpath">
+    <fileset refid="libs"/>
+  </path>
+
+
+  <target name="prepare">
+       <mkdir dir="${classes.dir}"/>
+  </target>
+
+
+  <target name="compile" description="Compile Java sources" depends="prepare">
+    <javac srcdir="src"
+           destdir="${classes.dir}"
+           debug="true"
+           source="1.6"
+           target="1.6"
+           debuglevel="lines,vars,source"
+           deprecation="on"
+           optimize="off"
+           encoding="UTF-8"
+           classpathref="compile.classpath"/> 
+  </target>
+
+
+
+  <!-- Create application JAR file -->
+  <target name="jar" depends="compile">
+    <jar destfile="${jar.location}"
+         update="false"
+         index="true"
+         basedir="${classes.dir}/"
+         />
+  </target>
+
+
+
+  <!-- Targets used by the main GATE build file:
+         build: build the plugin - just calls "jar" target
+         test : run the unit tests - there aren't any
+         distro.prepare: remove intermediate files that shouldn't be in the
+                         distribution
+  -->
+  <target name="build" depends="jar" />
+  <target name="test" />
+  <target name="distro.prepare" depends="clean.classes" />
+
+
+  <target name="clean.classes" >
+    <delete dir="${classes.dir}" />
+  </target>
+
+  <target name="clean.jar" >
+    <delete file="${jar.location}" />
+  </target>
+
+  <!-- Clean up - remove .class and .jar files -->
+  <target name="clean" depends="clean.classes, clean.jar" />
+
+
+  <!-- generate javadoc -->
+
+  <target name="doc"
+	  depends="javadoc"/>
+
+  <target name="javadoc" 
+          depends="compile"
+          description="Create Javadoc API documentation">
+    <javadoc access="protected"
+             destdir="${javadoc.dir}"
+             classpathref="compile.classpath"
+             Extdirs="${extDir}"
+             Encoding="UTF-8"
+             Use="yes"
+             Windowtitle="Information Extraction SystemJavaDoc"
+             docencoding="UTF-8"
+             charset="UTF-8"
+             source="1.6"
+             useexternalfile="yes"
+             breakiterator="true"
+    	     linksource="yes">
+      <fileset dir="${src.dir}"/>
+      <link href="http://docs.oracle.com/javase/6/docs/api/" />
+      <link href="http://gate.ac.uk/gate/doc/javadoc/" />
+    </javadoc>
+
+  </target>
+
+
+</project>

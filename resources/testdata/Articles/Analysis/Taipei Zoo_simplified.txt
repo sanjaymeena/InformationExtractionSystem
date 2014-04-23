@@ -1,0 +1,175 @@
+The Taipei Zoo is also known as the "Muzha Zoo". Taipei Zoo is a public zoological garden in Taipei City. Taipei City is in Taiwan. Taipei Zoo is the most famous zoological garden in Taiwan. Taipei Zoo is a leader in conservation, research, education, and recreation. Taipei Zoo is also the largest zoo in Asia. Taipei Zoo was founded in 1914. In 1914, Taiwan was under Japanese sovereignty. Taipei Zoo was originally a private zoological garden owned by a Japanese citizen, Mr Oe. The Japanese government in Taiwan bought the Taipei Zoo in 1918 and opened it as a public park. After World War II, the Republic of China retreated to Taiwan and the ownership of the park was passed to the Taipei city government of ROC. An Asian elephant named 'Lin Wang'  was moved to the Taipei Zoo. 'Lin Wang'  served with the Chinese Expeditionary Force during the Second Sino-Japanese War (1937–1945) .  'Lin Wang' was the most popular animal at the zoo. He was the most famous animal in Taiwan. Many adults and children alike affectionately called the bull elephant "Grandpa Lin Wang." Taipei Zoo is sometimes referred to as the "Muzha Zoo" . 
+
+Taipei Zoo has animals from Taiwan, Australia, Africa, the Asian tropical rainforest, the desert, and the temperate zones. The zoo also displays domestic animals in its Children's Zoo. Taipei Zoo also has well as over 12000 birds of over 130 species in an aviary.
+
+In 2008, the zoo received two pandas from the People's Republic of China (PRC). Tuan Tuan and Yuan Yuan (meaning "reunion") are Pandas. 
+
+Formosan Animal Area, Insect Valley, Children's Zoo Area, Koala House building, Asian Tropical Rainforest Area, Desert Animal Area, Australian Animal Area and  African Animal Area are part of the Taiwan Zoo. Bird World , Amphibian and Reptile House building ,Temperate Zone Animal Area, Education Center building and Penguin House are part of the Taiwan Zoo.
+Wild boar, Crab-eating mongoose, clouded leopard and  Formosan sika deer are found in Taiwan. European otter,Formosan rock macaque,Formosan pangolin,Formosan serow and Formosan black bear are found in Taiwan. Wild boar, Crab-eating mongoose, clouded leopard and  Formosan sika deer can be visited in Formosan Animal Area. European otter,Formosan rock macaque,Formosan pangolin,Formosan serow and Formosan black bear can be visited in Formosan Animal Area.
+Fern Garden is a part of the zoo. Visitors can take a look at ferns in Fern Garden.
+Visitors can see insects in Insect Valley.
+Muscovy duck,Cattle,Asian water buffalo and  Taoyuan pig can been Found in Children's Zoo area. Guinea pig, rabbit, donkey, lamaAlpaca, rose-ringed parakeet and common squirrel monkey can been Found in Children's Zoo area. They are usually held at farms around the world.
+Visitors can see koala in Koala House building.
+Tomistoma, great hornbill, southern pig-tailed macaque, siamang, orangutan, Malayan tapir, leopard, sun bear, Asian elephant and Bengal tiger can be found in Asian Tropical Rainforest Area. Asian Tropical Rainforest Area is home to  animals which are native to the tropical rainforests of Asia.
+Desert Animal Area has animals which lives in the desert.  Addax, Bactrian camel and dromedary camel can be found in Desert Animal Area.
+Eastern grey kangaroo, emu, southern cassowary and red-necked wallaby are displayed in Australian Animal Area. 
+Zebra, eland, hippopotamus, lion, white rhinoceros, giraffe, Patas monkey, chimpanzee, barbary sheep, olive baboon, lemur, western gorilla, bongo, impala, ostrich and African elephant can be found in African Animal Area.
+African Animal Area has animal which are native to Africa. 
+Bird World is the most western part of the zoo. Ducks, geese, swans, flamingos and  pelicans are displayed in Bird World. Ibises, hawks, eagles, hornbills and starlings are displayed in Bird World. Pigeons, doves, toucans, babblers, pheasants, cockatoos, parrots and cranes are displayed in Bird World. The main aviary has been closed for renovation since the winter of 2010 and is expected to be completed in 2012.
+Snakes, lizards, tortoises and frogs are displayed in Amphibian and Reptile House building. Amphibian and Reptile House building  is the home to the most of the zoo's collection of amphibians and reptiles. 
+Przewalski wild horse, American beaver, American bison, raccoon and sika are displayed in Temperate Zone Animal Area. Bobcat, woodchuck, European otter, Asiatic black bear, red panda, brown bear, grey wolf, puma and Eurasian lynx are displayed in Temperate Zone Animal Area. Temperate Zone Animal Area has animals  which usually lives in the temperate zone of the world. 
+Education Center building  houses an auditorium, the zoo library, special exhibitions and dinosaurs.
+Penguins are displayed in Penguin House. Taipei Zoo has two different species of penguins on display.  king penguin and African penguin are Penguins.
+
+
+
+---------------------------------------------------
+Relations: 
+
+are displayed in
+has
+are
+is also known as 
+is sometimes referred to as
+
+is a 
+is in 
+is a leader in
+was founded in
+can be visited in 
+is part of
+are part of
+can take a look at
+are found in
+can be found in
+can take a look at
+can see 
+are displayed in
+which are native to
+are displayed in
+
+
+
+
+
+------------------------------------
+group : {public=[18], over 130 species=[21], Taipei city government=[10], Japanese government=[9], Reptile House=[25, 48], Bird World=[25, 44, 45], Taipei Zoo=[0]}
+object : {world=[35], Asian tropical rainforest=[19], tropical rainforests=[38], Africa=[19], Asia=[5, 38]}
+animal : {common squirrel monkey=[34], southern pig-tailed macaque=[37], sun bear=[37], Formosan sika deer=[26, 28], Wild boar=[26, 28], Addax=[40], Tomistoma=[37], Bengal tiger=[37], Asian water buffalo=[33], two pandas=[22], Australian Animal=[41], domestic animals=[20], rabbit=[34], koala=[36], siamang=[37], orangutan=[37], over 12000 birds=[21], most famous animal=[14], red-necked wallaby=[41], southern cassowary=[41], Bactrian camel=[40], Muscovy duck=[33], Crab-eating mongoose=[26, 28], Asian elephant=[11, 37], Taoyuan pig=[33], rose-ringed parakeet=[34], great hornbill=[37], Malayan tapir=[37], Cattle=[33], insects=[32], Pandas=[23], Animals=[19, 38, 39], Eastern gray kangaroo=[41]}
+act : {recreation=[4], education=[4], research=[4], World War II=[10]}
+substance : {leopard=[37], European otter=[27, 29], clouded leopard=[26, 28]}
+event : {conservation=[4]}
+communication : {donkey=[34]}
+person : {Visitors=[31, 32, 36], Many adults and children=[15], leader=[4], Grandpa Lin Wang=[15], Guinea pig=[34], former '' Yuan-shan Zoo=[17], Mr Oe=[8], Lin Wang=[11], Tuan Tuan=[23], Yuan Yuan=[23], Fern Garden=[30], Japanese citizen=[8], ROC=[10], Amphibian=[25]}
+process : {}
+location : {Insect Valley=[32], Fern Garden=[31], Taiwan Zoo=[25], Taipei Zoo=[16, 1, 19, 3, 21, 4, 5, 6, 8, 9, 11], Taipei City=[1], temperate zones=[19], Children 's Zoo Area=[24], People 's Republic=[22], Taiwan=[19, 2, 3, 7, 9, 27, 10, 26, 14], Republic=[10], China=[22, 10], Australia=[19], public park=[9], current site=[18], Desert Animal Area=[39, 40], Children 's Zoo area=[34, 33], Formosan Animal Area=[24, 29, 28], Taipei city=[2], Asian Tropical Rainforest Area=[38, 37], Temperate Zone Animal Area=[51, 50, 25], park=[10], desert=[19, 39]}
+group : {public=[18], over 130 species=[21], Taipei city government=[10], Japanese government=[9], Reptile House=[25, 48], Bird World=[25, 44, 45], Taipei Zoo=[0]}
+object : {world=[35], Asian tropical rainforest=[19], tropical rainforests=[38], Africa=[19], Asia=[5, 38]}
+animal : {common squirrel monkey=[34], southern pig-tailed macaque=[37], sun bear=[37], Formosan sika deer=[26, 28], Wild boar=[26, 28], Addax=[40], Tomistoma=[37], Bengal tiger=[37], Asian water buffalo=[33], two pandas=[22], Australian Animal=[41], domestic animals=[20], rabbit=[34], koala=[36], siamang=[37], orangutan=[37], over 12000 birds=[21], most famous animal=[14], red-necked wallaby=[41], southern cassowary=[41], Bactrian camel=[40], Muscovy duck=[33], Crab-eating mongoose=[26, 28], Asian elephant=[11, 37], Taoyuan pig=[33], rose-ringed parakeet=[34], great hornbill=[37], Malayan tapir=[37], Cattle=[33], insects=[32], Pandas=[23], Animals=[19, 38, 39], Eastern gray kangaroo=[41]}
+act : {recreation=[4], education=[4], research=[4], World War II=[10]}
+substance : {leopard=[37], European otter=[27, 29], clouded leopard=[26, 28]}
+event : {conservation=[4]}
+communication : {donkey=[34]}
+person : {Visitors=[31, 32, 36], Many adults and children=[15], leader=[4], Grandpa Lin Wang=[15], Guinea pig=[34], former '' Yuan-shan Zoo=[17], Mr Oe=[8], Lin Wang=[11], Tuan Tuan=[23], Yuan Yuan=[23], Fern Garden=[30], Japanese citizen=[8], ROC=[10], Amphibian=[25]}
+process : {}
+location : {Insect Valley=[32], Fern Garden=[31], Taiwan Zoo=[25], Taipei Zoo=[16, 1, 19, 3, 21, 4, 5, 6, 8, 9, 11], Taipei City=[1], temperate zones=[19], Children 's Zoo Area=[24], People 's Republic=[22], Taiwan=[19, 2, 3, 7, 9, 27, 10, 26, 14], Republic=[10], China=[22, 10], Australia=[19], public park=[9], current site=[18], Desert Animal Area=[39, 40], Children 's Zoo area=[34, 33], Formosan Animal Area=[24, 29, 28], Taipei city=[2], Asian Tropical Rainforest Area=[38, 37], Temperate Zone Animal Area=[51, 50, 25], park=[10], desert=[19, 39]}
+ 82 seconds to extract concepts from Article: Articles/test##test.txt
+ 
+ ##########################################################################################################################
+ The Taipei Zoo is also known as the "Muzha Zoo". 
+ (ROOT (S (NP (DT The) (NNP Taipei) (NNP Zoo)) (VP (VBZ is) (VP (ADVP (RB also)) (VBN known) (PP (IN as) (NP (DT the))) ('' '') (S (NP (NNP Muzha) (NNP Zoo))))) ('' '') (. .)))
+ 
+ 
+ Taipei Zoo is a public zoological garden in Taipei City. 
+ (ROOT (S (NP (NNP Taipei) (NNP Zoo)) (VP (VBZ is) (NP (NP (DT a) (JJ public) (JJ zoological) (NN garden)) (PP (IN in) (NP (NNP Taipei) (NNP City))))) (. .)))
+ 
+ 
+ Taipei City is in Taiwan. Taipei Zoo is the most famous zoological garden in Taiwan. 
+ 
+ 
+ Taipei Zoo is a leader in conservation, research, education, and recreation.
+
+
+ Taipei Zoo is also the largest zoo in Asia. Taipei Zoo was founded in 1914. 
+ 
+ In 1914, Taiwan was under Japanese sovereignty. 
+ 
+ Taipei Zoo was originally a private zoological garden owned by a Japanese citizen, Mr Oe. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ ####### Data on Relations ##################################
+
+Relations which were added.............
+is_also_known_as(Taipei_Zoo, Muzha_Zoo)
+is_public_zoological_garden_in(Taipei_Zoo, Taipei_City)
+is_in(Taipei_City, Taiwan)
+is_most_famous_zoological_garden_in(Taipei_Zoo, Taiwan)
+is_leader_in(Taipei_Zoo, recreation)
+is_also_largest_zoo_in(Taipei_Zoo, Asia)
+was_originally_private_zoological_owned(Taipei_Zoo, private_zoological_garden)
+by(private_zoological_garden, Japanese_citizen)
+in(Japanese_government, Taiwan)
+called(Many_adults_and_children, Many_adults_and_children)
+is_sometimes_referred_to_as(Taipei_Zoo, Muzha_Zoo)
+has(Taipei_Zoo, animals)
+from(animals, Asian_tropical_rainforest)
+displays(zoo, domestic_animals)
+in(domestic_animals, zoo)
+has_as(Taipei_Zoo, aviary)
+received(zoo, two_pandas)
+is_part_of(Children_'s_Zoo_Area, Taiwan_Zoo)
+is_part_of(Amphibian, Taiwan_Zoo)
+can_be_visited_in(Crab-eating_mongoose, Formosan_Animal_Area)
+can_be_visited_in(European_otter, Formosan_Animal_Area)
+is_part_of(Fern_Garden, zoo)
+can_take(Visitors, look)
+at(look, ferns)
+can_see(Visitors, insects)
+can_been_Found_in(Guinea_pig, Children_'s_Zoo_area)
+are_usually_held_at(farms, world)
+can_see(Visitors, koala)
+in(koala, koala)
+can_be_found_in(Southern_pig-tailed_macaque, Asian_Tropical_Rainforest_Area)
+is_home_to(Asian_Tropical_Rainforest_Area, Asia)
+has(Desert_Animal_Area, animals)
+in(animals, Desert_Animal_Area)
+can_be_found_in(Bactrian_camel, Desert_Animal_Area)
+is_displayed_in(Eastern_gray_kangaroo, Australian_Animal_Area)
+can_be_found_in(Eland, African_Animal_Area)
+can_be_found_in(Barbary_sheep, African_Animal_Area)
+has(African_Animal_Area, African_Animal_Area)
+to(African_Animal_Area, African_Animal_Area)
+is_most_western_part_of(Bird_World, zoo)
+are_displayed_in(Swans, Bird_World)
+are_displayed_in(Starlings, Bird_World)
+are_displayed_in(Cockatoos, Bird_World)
+are_displayed_in(Tortoises, Reptile_House)
+is_home_to(Reptile_House_building, amphibians)
+is_displayed_in(American_bison, Temperate_Zone_Animal_Area)
+is_displayed_in(Eurasian_lynx, Temperate_Zone_Animal_Area)
+has(Temperate_Zone_Animal_Area, animals)
+in(animals, Temperate_Zone_Animal_Area)
+houses(Education_Center_building, zoo_library)
+are_displayed_in(Penguins, Penguin_House)
+has(Taipei_Zoo, two_different_species)
+of(two_different_species, Penguins)
+
+Relations which were not added.............
+
+was_moved_to(Asian_elephant, Taipei_Zoo)    #Reason#   Asian_elephant could not be found in Article/Sumo Ontology hierarchy.
+from(two_pandas, the_Republic)    #Reason#   the_Republic could not be found in Article/Sumo Ontology hierarchy.
+are_found_in(Formosan_sika_deer, Taiwan)    #Reason#   Formosan_sika_deer could not be found in Article/Sumo Ontology hierarchy.
+in(insects, Insect_Valley)    #Reason#   Insect_Valley could not be found in Article/Sumo Ontology hierarchy.
+can_been_Found_in(Muscovy_duck, Children_'s_Zoo_area)    #Reason#   Muscovy_duck could not be found in Article/Sumo Ontology hierarchy.
+
+ ----------------------------------------------------------------------------
+ 
