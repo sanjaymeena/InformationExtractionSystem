@@ -15,11 +15,11 @@ The tagger module performs following tasks: text preprocessing, syntactic parsin
 ### Module 4: Relation Extraction Module
 Relation Extraction Module will extract the triplet: predicate, subject, object which will be present in sentences. For complex sentences, more than one triplet can be present. 
 
-## About Code
+## About the Code
 Please run com.asus.ctc.ie.InformationExtraction for demo run. The IE system is memory intensive. please provide -Xmx1024m as VM argument. 
 
 ### Configuration 
-Configuration files are kept in resources/core_ie_resources/ie_data
+Configuration files are kept in resources/core_ie_resources/ie_data. THey are controlled in com.asus.ctc.ie.config.GlobalProperties
 The main configuration files are: 
 1. ie_processing_configuration.properties : Run time control over different modules in IE System
 2. ie_properties.properties : All the necessary filepaths for various resources are mentioned here. 
