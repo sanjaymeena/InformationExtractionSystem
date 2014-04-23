@@ -16,6 +16,24 @@ The tagger module performs following tasks: text preprocessing, syntactic parsin
 Relation Extraction Module will extract the triplet: predicate, subject, object which will be present in sentences. For complex sentences, more than one triplet can be present. 
 
 
+## About Code
+
+Please run com.asus.ctc.ie.InformationExtraction for demo run. 
+
+### Configuration 
+Configuration files are kept in resources/core_ie_resources/ie_data
+The main configuration files are: 
+1. item
+2. item
+3. item
+
+
+
+
+
+
+
+
 
 
 
